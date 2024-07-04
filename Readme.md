@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Михаил Хабиров](https://up.htmlacademy.ru/javascript-individual/2/user/1215211).
-* Наставник: `Виктория Никитина`.
+* Наставник: [Виктория Никитина] (https://htmlacademy.ru/profile/id1217273).
 
 ---
 
